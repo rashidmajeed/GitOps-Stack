@@ -1,5 +1,5 @@
-# vote-deploy
-Kubernetes Deployment Code for Vote App
+# Blue Green & Canary release Demonstration using Argo Stack
+Kubernetes Deployment Code for Vote App 
 
 # CLI to get status of blue-green and canary revisions
 kubectl argo rollouts get rollouts vote
